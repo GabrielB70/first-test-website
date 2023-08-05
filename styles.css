@@ -1,0 +1,24 @@
+body{
+    color:black;
+    font-family:sans-serif;
+    background-color: beige;
+}
+h2,p,ul{
+    width:80% ;
+    background-color:cornflowerblue;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+    background-position: center;
+    align-items: center;
+    list-style: none;   
+    border-style:hidden;
+    color: white;
+    margin: block 2px;;
+
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
